@@ -7,7 +7,6 @@
 </head>
 <body>
 <div style="text-align: center;">
-    <h1>Users Management</h1>
     <h2>
         <a href="/users/new">Add New User</a>
         &nbsp;&nbsp;&nbsp;
