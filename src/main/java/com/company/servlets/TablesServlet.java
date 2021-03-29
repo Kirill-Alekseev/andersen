@@ -2,6 +2,7 @@ package com.company.servlets;
 
 import com.company.dao.ConnectionProvider;
 import com.company.dao.DefaultConnectionProvider;
+import com.company.dao.SshDatabaseConnectionProvider;
 import com.company.service.SqlRunner;
 
 import javax.servlet.annotation.WebServlet;
@@ -18,7 +19,7 @@ public class TablesServlet extends HttpServlet {
 
     @Override
     public void init() {
-        connectionProvider = new DefaultConnectionProvider();
+        connectionProvider = new SshDatabaseConnectionProvider();
         sqlRunner = new SqlRunner(connectionProvider);
     }
 
