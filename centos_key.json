@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "proud-spring-308908",
+  "private_key_id": "7b8e004f4132beb9c33d508605622f8a05f405dc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC8YfWCljL7Jbkh\noGV15ckwgAqu8wRMy0lmEWT4SXqmGlnhoHgFinAJM3RS+S2h2JAI+2gMe+yNAL6e\nWfZ//rqJ8w8r+dPtSRI10gQRv1W+YQxonwYBdf3khy1Bjt72Q1X9HHjSNq7mPe6f\nAnCQsDZ6MKzjOrjV/vWiC3vgZL1G+PHPSJf+6788oWvuz5RsuHTmCkfBHir3rzOM\nM/xXhWpjoPPd3ChERqe19+ZU74jcSrVq3wbl18dTnMNgwQCtvEpHwBExdgo3ltRA\nTR9ia/YdpGgHuvdqqOvpe/tEIO+udEbQx6HJO9Z3gnVMCJF+pSCzVKBmHGF81py4\nHY2NVXCXAgMBAAECggEAIYpdcIE2lYG7axHITsv5XMHHZSvOja+6I0qgjBZlGHLj\noujzxaTG2tSG9wj3h3Pr/TVp6qMb1GUYC1CgM1zSsKIOhvllsr9KVzvLzq8e4JUd\n5Pi/VH5CFLC+rYf3CaimhDjQCDmFPWg0dqo0CYbeRDYrag+3/h31dQMPbL3y91Io\nZCbJ716T+NmptMi1itUfgaFj5rKp7KjngG9luplWvfpHMqcFguKvurgSlkp22ra8\nx3zBYMmIckiKu+Sm6VVKwr25NLrtmQi4CnHZ2jJowSqFeXlc/VMl6rUyNcN01Coy\n744i9cv1TV25LsJI85oYLL+imVTf4HovqcCmqA7m/QKBgQDctXp3H8pfeBuz93eH\nv5kcxU+bgpPwiq08oJWenNcPScsbY/g7o4r8mZzRVfg2ctv611yfaIm1H0kVcyqo\nrFlwxTVBR+OERZiS1V75AisPyHvN7XEKs17xzUsDTT1ZwEgxEDW2Hwf8jEpXF5TV\nAxxgMi3STJf2GoT1OZm3gdmfHQKBgQDagTwNzYNCn2t6VB3ZG1TY1z7S/MOhSBkv\nER2DKz1fE3NVdJvtM0i0EGoEGwlUu8e0SR+BHR/iLt09Nz2Jjk85CIxqNplDLGv+\nrKbzM4Y35tdYpYUS+WOvRyg6QVY0wg/6dwnaHWLgTpqrMurDj3ywsIt9BfhG5B9B\noYBfJo48QwKBgEXwvH5DdL4MMbs2EIrUDJExdaiyGG+BgqRTvxYkXYJawCJN67v6\nd3DUvP0ZYS7f9xXmaVOarQjYgTBq7nnFJBK4a8fkIBUqeM8PDqmaJks6HQGE3O2n\nKc82Xy8MqwRmCnqByIOOEdnWGzi+IEvgUH2raRnba8xxWvDa7/tXCr+BAoGAApIQ\npczsJWWAuzCwJTS4G9D0cUD+ADC78xzNbxScJTkyWygDCZhX255x0NiMlI2c/Nb7\nYuZ30I5ilezHcY3WCsK5/CnmRa8JGjbnw+awRooVsHpKBX4fmRlKNN096WL7EyRB\nXmqIFkF2elsf/er7OYzqJy9hy1u1rmz6+KOYescCgYEAo4RD/AumtfbOBwKrDzRX\nEofT7k3u9CvGNMFNVji1OQjnh+nydAT5F1jKkWI6loqKKWIYUGBpBv6GopD3mjrl\n24y7Jlp2johAHZmyMigTfQgkwH/SeJWNo0y3dIsVDYL9foBsDBwDQTHZJFtIcCpR\n+GO34iam+jYrh1JFeV5I1+8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "centos-key@proud-spring-308908.iam.gserviceaccount.com",
+  "client_id": "111775306409778081060",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/centos-key%40proud-spring-308908.iam.gserviceaccount.com"
+}
