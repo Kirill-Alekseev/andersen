@@ -1,10 +1,10 @@
-package com.company.dao;
+package com.company.service;
 
 import com.company.model.User;
 
 import java.util.Collection;
 
-public interface UserDao {
+public interface UserService {
 
     Collection<User> getAll();
 

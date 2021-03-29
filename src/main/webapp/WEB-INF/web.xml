@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://xmlns.jcp.org/xml/ns/javaee"
          xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee
-                      http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
-         version="4.0">
+        http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+         id="WebApp_ID" version="3.1">
+    <display-name>Books Management Web Application</display-name>
 
-    <display-name>Archetype Created Web Application</display-name>
-    <servlet>
-        <servlet-name>GetAllUsers</servlet-name>
-        <servlet-class>GetAllUsers</servlet-class>
-    </servlet>
-    <servlet-mapping>
-        <servlet-name>GetAllUsers</servlet-name>
-        <url-pattern>/users</url-pattern>
-    </servlet-mapping>
+    <welcome-file-list>
+        <welcome-file>/index.jsp</welcome-file>
+    </welcome-file-list>
 
+    <error-page>
+        <exception-type>java.lang.Exception</exception-type>
+        <location>/views/Error.jsp</location>
+    </error-page>
 </web-app>
