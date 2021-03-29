@@ -20,7 +20,7 @@ public class UserControllerServlet extends HttpServlet {
     private HashMap<String, Action> actions = new HashMap<>();
 
     public void init() {
-        ConnectionProvider connectionProvider = new DefaultConnectionProvider();
+        ConnectionProvider connectionProvider = new SshDatabaseConnectionProvider();
         UserDao userDao = new UserDaoJdbc(connectionProvider);
         UserService userService = new UserServiceImpl(userDao);
 
