@@ -19,7 +19,7 @@ public class TablesServlet extends HttpServlet {
 
     @Override
     public void init() {
-        connectionProvider = new SshDatabaseConnectionProvider();
+        connectionProvider = new DefaultConnectionProvider();
         sqlRunner = new SqlRunner(connectionProvider);
     }
 
